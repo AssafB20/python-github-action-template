@@ -74,7 +74,7 @@ if __name__ == "__main__":
         Assaf = {'W':['Warriors','Lakers','76ers','Hawks'],'L':['Pistons','Hornets'], 'score':'', 'name':'Assaf'}
         Iddo = {'W':['Bucks','Celtics','Suns','Bulls'], 'L':['Jazz','Kings'], 'score':'','name':'Iddo'}
         Liad = {'W': ['Cavaliers','Nets','Rapators','Pelicans'],'L':['Rockets','Thunder'], 'score':'','name':'Liad'}
-        Yaniv = {'W':['Nuggets','Maverics','Wolves'],'L':['Spurs','Magic','Knicks'], 'score':'','name':'Yaniv'}
+        Yaniv = {'W':['Nuggets','Maverics','Timberwolves'],'L':['Spurs','Magic','Knicks'], 'score':'','name':'Yaniv'}
         Berger = {'W':['Grizzlies','Clippers','Heat'],'L':['Pacers','Wizards','Blazers'], 'score':'','name':'Berger'}
 
         names = [Assaf, Iddo, Liad, Yaniv, Berger]
