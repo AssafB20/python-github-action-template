@@ -86,7 +86,7 @@ if __name__ == "__main__":
 
     def send_email():
     
-        recipients = ['assafb20@gmail.com','yanivh42@gmail.com','iddomac@gmail.com','liad.porat@gmail.com'] 
+        recipients = ['assafb20@gmail.com','yanivh42@gmail.com','iddomac@gmail.com','liad.porat@gmail.com','redberger8@gmail.com'] 
         emaillist = [elem.strip().split(',') for elem in recipients]
         msg = MIMEMultipart()
         msg['Subject'] = "Daily scores update"
