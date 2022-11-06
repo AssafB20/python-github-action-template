@@ -118,4 +118,4 @@ if __name__ == "__main__":
     
     df_scores
     
-    send_mail()
+    send_email()
